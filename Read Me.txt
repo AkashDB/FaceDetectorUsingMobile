@@ -1,0 +1,13 @@
+Read Me:
+
+It will detect your face with web cam and with mobile.
+
+For mobile:
+ 1. install IP Webcam app
+ 2. Start Server in that app
+ 3. copy the address in FaceDetector.py file and also on your browser
+ 4. you can change any setting of you mobile cam through that address on browser.
+
+
+  
+ 
